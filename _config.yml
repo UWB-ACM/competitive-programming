@@ -11,8 +11,8 @@ discord_link:       https://discord.gg/2tWhanq
 github_link:        https://github.com/UWB-ACM
 linkedin_link:      https://www.linkedin.com/in/uwbacm/
 
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+# Google-analytics ID
+google_analytics:   UA-170203794-1 
 
 # Build settings
 markdown:           kramdown
