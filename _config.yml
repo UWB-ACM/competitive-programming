@@ -5,6 +5,14 @@ description:        by UWB ACM chapter
 author:             UWB ACM
 baseurl:            "/"
 markdown: kramdown
+keywords: 
+  - Competitive 
+  - Programming 
+  - UWB
+  - ACM
+  - events
+  - Coding 
+  - contest
 
 # Social Profiles
 discord_link:       https://discord.gg/2tWhanq
