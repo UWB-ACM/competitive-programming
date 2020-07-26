@@ -11,8 +11,8 @@ discord_link:       https://discord.gg/2tWhanq
 github_link:        https://github.com/UWB-ACM
 linkedin_link:      https://www.linkedin.com/in/uwbacm/
 
-# Google-analytics ID
-google_analytics:   UA-170203794-1 
+# Google-analytics ID. Replace this field with GA id held by UWB ACM if needed.
+google_analytics:   UA-xxxxxx 
 
 # Build settings
 markdown:           kramdown
