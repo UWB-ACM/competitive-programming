@@ -6,13 +6,15 @@ author:             UWB ACM
 baseurl:            "/"
 markdown: kramdown
 keywords: 
-  - Competitive 
-  - Programming 
-  - UWB
-  - ACM
-  - events
-  - Coding 
-  - contest
+  - competitive programming 
+  - uwb acm
+  - uwb events
+  - coding contest
+  - uwb competitive programming
+  - uwb acm programming contest
+  - uwb competitive programming website
+  - uwbcp
+  - uwbcp website
 
 # Social Profiles
 discord_link:       https://discord.gg/2tWhanq
