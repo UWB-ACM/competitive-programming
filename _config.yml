@@ -3,7 +3,7 @@ shorttitle:         UWBCP
 email:              uwbacm@uw.edu
 description:        by UWB ACM chapter
 author:             UWB ACM
-baseurl:            "/competitive-programming"
+baseurl:            "/"
 markdown: kramdown
 
 # Social Profiles
@@ -15,7 +15,6 @@ linkedin_link:      https://www.linkedin.com/in/uwbacm/
 google_analytics:   UA-xxxxxx 
 
 # Build settings
-markdown:           kramdown
 paginate:           5
 paginate_path:      "/blog/page:num/"
 plugins:
