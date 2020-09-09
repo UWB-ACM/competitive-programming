@@ -83,9 +83,9 @@ header.masthead {
 
 .breaking-news {
   margin: 50px auto;
-  width: 650px; 
+  width: 90%; 
   padding: 0.2px 0.2px;
-  height: 55px; 
+  height: auto; 
   background-color: rgb(244, 244, 167);
 }
 
@@ -96,7 +96,7 @@ a {
   animation: blinker 1s linear infinite;
   color: red;
   margin: 6px;
-  font-size: 32px;
+  font-size: 30px;
   font-weight: bold;
   font-family: sans-serif;
 }
