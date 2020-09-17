@@ -13,7 +13,7 @@ exturl_gwc: https://www.instagram.com/girlswhocode__uwb/?igshid=lmenj5wiuyo
 exturl_regisform: http://bit.ly/join-uwbcode20
 ---
 <div class="d-flex center">
-        <a class="align-self-center col-md-2 d-inline-block zoom" target="blank" href="{{page.exturl_uwb%}}">
+        <a class="align-self-center col-md-2 d-inline-block zoom" target="blank" href="{{page.exturl_uwb}}">
             <img class="img-fluid" src="/img/uwbcode2020/uwb_logo.png" alt="UWB logo">     
         </a>
         <a class="align-self-center col-md-2 d-inline-block zoom" target="blank" href="{{page.exturl_uwbacm}}">
