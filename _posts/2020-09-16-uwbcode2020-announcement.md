@@ -3,7 +3,7 @@ layout: post
 title: "UWBCode 2020 is NOW OPEN!!"
 date: 2020-09-16 7:46:00
 background: '/img/uwbcode2020/code_bg.png'
-published: true
+published: false
 categories: [UWBCode2020, Announcement, Fall2020, AllenInstitute]
 
 exturl_AllenInstitute: https://alleninstitute.org/what-we-do/brain-science/
