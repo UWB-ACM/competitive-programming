@@ -18,7 +18,7 @@ exturl_regisform: http://bit.ly/join-uwbcode20
 var countDownDate = new Date("Oct 9, 2020 10:00:00 PDT").getTime();
 
 // Update the count down every 1 second
-var x = setInterval(function() {
+var interval = setInterval(function() {
 
   // Get today's date and time
   var now = new Date().getTime();
@@ -32,14 +32,14 @@ var x = setInterval(function() {
   var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-  // Display the result in the element with id="demo"
+  // Display the result in the element with id="clk"
   document.getElementById("clk").innerHTML = days + " days : " + hours + " hours : "
   + minutes + " minutes : " + seconds + " seconds ";
 
   // If the count down is finished, write some text 
   if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("clk").innerHTML = "CONTEST ENDED!";
+    clearInterval(interval);
+    document.getElementById("clk").innerHTML = "CONTEST STARTED!";
   }
 }, 1000);
 </script>
